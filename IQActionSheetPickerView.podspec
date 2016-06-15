@@ -6,6 +6,5 @@ Pod::Spec.new do |s|
 	s.platform = :ios, '5.0'
 	s.source_files  = 'IQActionSheetPickerView/*.{h,m}'
 	s.requires_arc = true
-	s.authors='Iftekhar Qurashi": "hack.iftekhar@gmail.com'
     },
 end
